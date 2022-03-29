@@ -1,0 +1,39 @@
+body{
+    background-image: url(../pexels-designecologist-1779487.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 14%;
+    width: 100vh;
+}
+#display{
+    width: 13.8%;
+    height: 7%;
+    font-size: 30px;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+top: 26%;
+    left: 42%;
+    text-align: right;
+}
+.btn{
+    width: 22%;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    font-size: 26px;
+}
+#clear{
+width: 30%;
+}
+.container{
+    position: relative;
+    top: 260px;
+    left: 692px;
+   
+}
+#clear{
+    text-align: center;
+    width: 80px;
+}
+
